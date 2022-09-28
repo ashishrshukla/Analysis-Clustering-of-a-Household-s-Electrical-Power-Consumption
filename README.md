@@ -14,5 +14,7 @@ The dataset represents the electric power consumption in the house. The data def
  7. Other_appliances_consumption: The power consumption of the appliances other than in the kitchen and laundry room (in watt-hour)
  
  # Coclusion
+![Cluster](https://user-images.githubusercontent.com/104691416/192870127-b0790bf0-6d46-4990-b5d0-f358a4b1c319.png)
+
 K-means, Hierarchical clustering and DBSCAN was used to get the optimal numbers of clusters.
 For the Clusters validation, we have used the Elbow method and Silhouette score. Also we have assigned all the houses in different clusters based on the electrical power consumption.
